@@ -48,7 +48,7 @@ A weak easy-axis anisotropy $`A_z = 0.01`$ is applied in all runs.
 
 **Antiferromagnetic state (b):** Negative exchange ($`J < 0`$) favors antiparallel nearest neighbors, producing the Néel checkerboard — alternating $`S_z = +1`$ and $`S_z = -1`$ sites. The pattern is sharp and defect-free, consistent with a well-converged ground state on a bipartite lattice.
 
-**Spin spiral state (c):** A large DMI ($`D = 1.5 > J`$) overcomes the ferromagnetic exchange, forcing spins to rotate continuously in space. The result is a propagating helical texture whose spatial wavelength is set by the ratio $`D/J`$. The in-plane arrows clearly trace the winding of spins across the spiral fronts.
+**Spin spiral state (c):** A large DMI ($`D = 1.5 > J`$) overcomes the ferromagnetic exchange, forcing spins to rotate continuously in space. 
 
 **Skyrmion crystal (d):** At moderate DMI ($`D = 0.7`$) with an applied out-of-plane field ($`H_z = 0.2`$), the competition between exchange, DMI, and Zeeman energy stabilizes a periodic lattice of magnetic skyrmions. Each skyrmion is a topologically non-trivial spin whirl — $`S_z \approx +1`$ at the core, winding continuously to $`S_z \approx -1`$ in the surrounding ferromagnetic background. The applied field is essential: without it, the spiral phase persists and no skyrmion lattice forms.
 
